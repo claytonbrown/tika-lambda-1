@@ -17,7 +17,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-lambda-java-events</artifactId>
-      <version>1.0.0</version>
+      <version>3.0.0</version>
       <exclusions>
       	<exclusion>
       		<artifactId>aws-java-sdk-kinesis</artifactId>
